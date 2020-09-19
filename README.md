@@ -1,2 +1,2 @@
 # Arduino projects.
-I have done these easy projects while learning basic programming.
+I have done these easy projects while learning basic programming in c++.
